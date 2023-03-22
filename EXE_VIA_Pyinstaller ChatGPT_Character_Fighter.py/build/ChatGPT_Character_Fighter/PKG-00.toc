@@ -1,0 +1,51 @@
+('C:\\General '
+ 'Programming\\Python\\BDS_Engine\\GPTContribution\\build\\ChatGPT_Character_Fighter\\ChatGPT_Character_Fighter.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\General '
+   'Programming\\Python\\BDS_Engine\\GPTContribution\\build\\ChatGPT_Character_Fighter\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\General '
+   'Programming\\Python\\BDS_Engine\\GPTContribution\\build\\ChatGPT_Character_Fighter\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\General '
+   'Programming\\Python\\BDS_Engine\\GPTContribution\\build\\ChatGPT_Character_Fighter\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\General '
+   'Programming\\Python\\BDS_Engine\\GPTContribution\\build\\ChatGPT_Character_Fighter\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\General '
+   'Programming\\Python\\BDS_Engine\\GPTContribution\\build\\ChatGPT_Character_Fighter\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\General '
+   'Programming\\Python\\BDS_Engine\\GPTContribution\\build\\ChatGPT_Character_Fighter\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Imman\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Imman\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('ChatGPT_Character_Fighter',
+   'C:\\General '
+   'Programming\\Python\\BDS_Engine\\GPTContribution\\ChatGPT_Character_Fighter.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
